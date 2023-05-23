@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view  >
+  <text class="user-motto" >x:{{x}}</text>
+    <text class="user-motto" >y:{{y}}</text>
+  <canvas type="2d" id="myCanvas" style="height:90vh;width: 100%; background:wheat"></canvas>
+</view>
